@@ -3,3 +3,5 @@ def display_board
   puts "Welcome to Tic Tac Toe"
     3.times {puts "   |   |   "}
 end
+
+
